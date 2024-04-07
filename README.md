@@ -28,4 +28,8 @@ $ git clone https://github.com/awetmokie/Single-Agent-Reinforcement-learning.git
  pip install -r requirements.txt
 ```
 
+## Step 4: Run simple.py file in terminal
 
+```$
+ python simple.py
+```
