@@ -1,3 +1,31 @@
-# Actor-Critic-Methods-Paper-To-Code# Single-Agent-Reinforcement-learning
-# Single-Agent-Reinforcement-learning
-# Single-Agent-Reinforcement-learning
+# Getting Started
+
+
+## Step 1: Create Your Virtual Environment
+
+``` 
+$ python -m venv myenv 
+```
+
+### Activate the virtual environment
+
+### Windows
+``` $
+myenv\Scripts\activate
+```
+### macOS and Linux
+```
+$ source myenv/bin/activate
+```
+
+## Step 2: Download the git repository
+```
+$ git clone https://github.com/awetmokie/Single-Agent-Reinforcement-learning.git
+```
+
+## Step 3: Install Dependencies
+```$
+ pip install -r requirements.txt
+```
+
+
