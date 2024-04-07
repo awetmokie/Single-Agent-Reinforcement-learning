@@ -33,3 +33,4 @@ $ git clone https://github.com/awetmokie/Single-Agent-Reinforcement-learning.git
 ```$
  python simple.py
 ```
+this python is a simple example to familarize with the environment and if all dependencies are working properly and pygame should be rendered properly after running the python file.
